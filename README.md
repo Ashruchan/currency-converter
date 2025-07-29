@@ -2,8 +2,7 @@
 
 A clean and interactive **Currency Converter** built using **HTML, CSS, and JavaScript**. Easily convert between popular currencies with live exchange rates. Designed with responsive layout and animated visuals to enhance user experience.
 
-![Currency Converter Banner](<img width="1366" height="664" alt="image" src="https://github.com/user-attachments/assets/5074a2da-9eaa-4356-9db7-5ffcc7a26e02" />
-) <!-- Replace with your screenshot URL -->
+
 
 ---
 
