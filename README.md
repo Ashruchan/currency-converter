@@ -7,7 +7,7 @@ A clean and interactive **Currency Converter** built using **HTML, CSS, and Java
 ---
 
 ## 🌐 Live Demo
-👉 [Click here to try it out](https://yourusername.github.io/currency-converter/)
+👉 [Click here to try it out](https://currency-converter-rho-sepia-37.vercel.app/)
 
 ---
 
